@@ -1,0 +1,15 @@
+[submodule "Bayes-Classifier-for-Breast-Cancer-Detection"]
+	path = Bayes-Classifier-for-Breast-Cancer-Detection
+	url = git@github.com:AliAkhgari/Bayes-Classifier-for-Breast-Cancer-Detection.git
+[submodule "Multi-Class-Logistic-Regression"]
+	path = Multi-Class-Logistic-Regression
+	url = git@github.com:AliAkhgari/Multi-Class-Logistic-Regression.git
+[submodule "Wine-Quality-Feature-Selection"]
+	path = Wine-Quality-Feature-Selection
+	url = git@github.com:AliAkhgari/Wine-Quality-Feature-Selection.git
+[submodule "Perceptron-Iris-Classifier"]
+	path = Perceptron-Iris-Classifier
+	url = git@github.com:AliAkhgari/Perceptron-Iris-Classifier.git
+[submodule "LDA-Fashion-MNIST"]
+	path = LDA-Fashion-MNIST
+	url = git@github.com:AliAkhgari/LDA-Fashion-MNIST.git
