@@ -13,3 +13,6 @@
 [submodule "LDA-Fashion-MNIST"]
 	path = LDA-Fashion-MNIST
 	url = git@github.com:AliAkhgari/LDA-Fashion-MNIST.git
+[submodule "Iranian-Traditional-Music-Dastgah-Classifier"]
+	path = Iranian-Traditional-Music-Dastgah-Classifier
+	url = git@github.com:AliAkhgari/Iranian-Traditional-Music-Dastgah-Classifier.git
